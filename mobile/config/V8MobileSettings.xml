@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MobileSettings>
+	<WifiToggleSwitch></WifiToggleSwitch>
+	<MobileDataToggleSwitch></MobileDataToggleSwitch>
+	<BluetoothToggleSwitch></BluetoothToggleSwitch>
+	<AirPlaneModeToggleSwitch></AirPlaneModeToggleSwitch>
+	<WifiHotspotSwitch></WifiHotspotSwitch>
+	<MobileLocationSwitch></MobileLocationSwitch>
+	<NFCToggleSwitch></NFCToggleSwitch>
+	<VPNToggleSwitch></VPNToggleSwitch>
+	<AutoSyncDataToggleSwitch></AutoSyncDataToggleSwitch>
+	<AutoDateTimeToggleSwitch></AutoDateTimeToggleSwitch>
+	<AutoTimeZoneToggleSwitch></AutoTimeZoneToggleSwitch>
+	<TimeFormatToggleSwitch></TimeFormatToggleSwitch>
+</MobileSettings>

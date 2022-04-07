@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding='utf-8'?>
+<Configuration>
+	<SetupConfiguration>
+        <PlatformConfiguration>
+            <PlatformName>Android</PlatformName>
+        </PlatformConfiguration>
+        <Android>
+		    <AppConfiguration>
+                <ApkPath>bin/com.gto.gtoaccess.apk</ApkPath>
+                <AppPackage>com.gto.gtoaccess</AppPackage>
+                <AppActivity>com.gto.gtoaccess.activity.LaunchActivity</AppActivity>
+            </AppConfiguration>
+            <AppCredential>
+                <UserName></UserName>
+                <Password></Password>
+            </AppCredential>
+            <AndroidV7>
+                <MobSettingPageXpathFileName></MobSettingPageXpathFileName>
+                <DataFilePath></DataFilePath>
+            </AndroidV7>
+            <AndroidV5>
+                <MobSettingPageXpathFileName></MobSettingPageXpathFileName>
+                <DataFilePath></DataFilePath>
+            </AndroidV5>
+            <AndroidV8>
+                <MobSettingPageXpathFileName></MobSettingPageXpathFileName>
+                <DataFilePath></DataFilePath>
+            </AndroidV8>
+		</Android>
+		<iOS>
+			<iOSAppConfiguration>
+                <ipaPath>/bin/path/to/.ipa</ipaPath>
+				<ipaBundleId>com.facebook.mgr</ipaBundleId>
+			</iOSAppConfiguration>
+			<iOSAppCredentials>
+				<UserName></UserName>
+				<Password></Password>
+			</iOSAppCredentials>
+			<CommonSettings>
+				<BootstrapPath>/usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent</BootstrapPath>
+				<AgentPath>/usr/local/lib/node_modules/appium/node_modules/appium-xcuitest-driver/WebDriverAgent/WebDriverAgent.xcodeproj</AgentPath>
+			</CommonSettings>
+		</iOS>
+	</SetupConfiguration>
+</Configuration>

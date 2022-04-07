@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MobileSettings>
+	<WifiToggleSwitch>com.android.settings:id/switch_widget</WifiToggleSwitch>
+	<MobileDataToggleSwitch></MobileDataToggleSwitch>
+	<BluetoothToggleSwitch>com.android.settings:id/switch_widget</BluetoothToggleSwitch>
+	<AirPlaneModeToggleSwitch>com.android.settings:id/list</AirPlaneModeToggleSwitch>
+	<WifiHotspotSwitch>android:id/switch_widget</WifiHotspotSwitch>
+	<MobileLocationSwitch>com.android.settings:id/switch_widget</MobileLocationSwitch>
+	<NFCToggleSwitch></NFCToggleSwitch>
+	<VPNToggleSwitch></VPNToggleSwitch>
+	<AutoSyncDataToggleSwitch></AutoSyncDataToggleSwitch>
+	<AutoDateTimeToggleSwitch></AutoDateTimeToggleSwitch>
+	<AutoTimeZoneToggleSwitch></AutoTimeZoneToggleSwitch>
+	<TimeFormatToggleSwitch></TimeFormatToggleSwitch>
+</MobileSettings>
